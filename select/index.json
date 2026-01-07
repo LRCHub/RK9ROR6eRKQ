@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Gentle Words",
+  "base_artist": "倖田來未",
+  "createdAt": "2026-01-07T09:42:43.432528Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gentle Words",
+      "artist": "Koda Kumi",
+      "has_synced": false,
+      "path": "select/01_Gentle_Words_Koda_Kumi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gentle Words",
+      "artist": "Kumi Koda",
+      "has_synced": true,
+      "path": "select/02_Gentle_Words_Kumi_Koda.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gentle Words",
+      "artist": "Koda Kumi",
+      "has_synced": true,
+      "path": "select/03_Gentle_Words_Koda_Kumi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gentle Words",
+      "artist": "倖田 來未",
+      "has_synced": false,
+      "path": "select/pl_01_Gentle_Words_倖田_來未.txt"
+    }
+  ]
+}
